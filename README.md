@@ -9,6 +9,8 @@ I've used different windows of size w where w = 1, 5 and 9 and I produced 6 maps
 
 ## Steps & Outputs
 
+You will find the test images in the 'images' directory
+
 1) Loaded all the images in grey mode:<br>
 
 ![image](https://user-images.githubusercontent.com/61145262/206900241-80fe539f-3a15-4ff4-8eb3-faa1b874d245.png)
