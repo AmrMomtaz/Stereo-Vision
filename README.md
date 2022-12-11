@@ -20,3 +20,7 @@ I've used different windows of size w where w = 1, 5 and 9 and I produced 6 maps
 ![image](https://user-images.githubusercontent.com/61145262/206900369-a228d251-f18d-4dd6-b879-dc371aa2c65f.png)<br><br>
 **Third Image:**<br><br>
 ![image](https://user-images.githubusercontent.com/61145262/206900434-65466ace-ab14-4734-9efc-b9e7464becd8.png)<br><br>
+
+
+Please note that I've the displacement by hand to get the previous results.<br>
+I've used 16, 64, 32 respectively for each image.
